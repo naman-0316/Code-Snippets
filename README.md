@@ -1,2 +1,2 @@
 # Code-Snippets
-Code snippets for direct implementation in short contests.
+### My code snippets of CPP for direct implementation in short contests.
